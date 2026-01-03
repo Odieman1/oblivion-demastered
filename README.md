@@ -10,7 +10,8 @@ It is a ground-up reinterpretation of Cyrodiil using Morrowind’s mechanics as 
 The goal of Oblivion Demastered is to answer a simple question:
 
 > *What would Oblivion have looked like if development started in 2000*
-But also because I feel like it lol
+
+(But also because I feel like it lol)
 
 To do that, this project focuses on:
 
@@ -39,6 +40,16 @@ Oblivion Demastered is developed in **clear, staged milestones**:
 - **Release Candidates** focus exclusively on Campaign completion and bug fixes.
 - **Post-release (1.x)** builds include minor fixes only
 
+## Community & Discussion
+
+Development discussion, design decisions, and general feedback take place on the project’s discussion board.  The Wiki *should* have sections to help you with gameplay and info about differences between the original game and the Morrowind implementation.
+The Board should show you info about progress on current builds.  All of these are open to discussion though, and I encourage it.
+
+- 💬 [**Discussion Board**](https://github.com/Odieman1/oblivion-demastered/discussions)
+
+- 📋 [**Project Board**](https://github.com/users/Odieman1/projects/2)
+
+- 📘 [**Project Wiki**](https://github.com/Odieman1/oblivion-demastered/wiki)
 
 ## Installation
 
