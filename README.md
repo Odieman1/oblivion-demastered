@@ -4,7 +4,6 @@
 
 It is a ground-up reinterpretation of Cyrodiil using Morrowind’s mechanics as well as its constraints.
 
----
 
 ## Project Goals
 
@@ -17,14 +16,12 @@ To do that, this project focuses on:
 
 - Designing content that respects **Morrowind’s engine limitations and jank**
 
----
 
 ## What This Project Is
 
 - A **total conversion** for *The Elder Scrolls III: Morrowind*
 - A game set to the events of **Oblivion** with mechanics from **Morrowind**
 
----
 
 ## What This Project Is Not
 
@@ -32,7 +29,6 @@ To do that, this project focuses on:
 - ❌ A 1:1 recreation of Oblivion’s gameplay systems  
 - ❌ AI Art
 
----
 
 ## Development Philosophy
 
@@ -43,13 +39,11 @@ Oblivion Demastered is developed in **clear, staged milestones**:
 - **Release Candidates** focus exclusively on Campaign completion and bug fixes.
 - **Post-release (1.x)** builds include minor fixes only
 
----
 
 ## Installation
 
 TBD
 
----
 
 ## Contributing
 
