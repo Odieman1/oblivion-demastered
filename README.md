@@ -4,6 +4,7 @@
 
 It is a ground-up reinterpretation of Cyrodiil using Morrowind’s mechanics as well as its constraints.
 
+- Please note, all assets located within Oblivion Demastered require zero attribution when used by the Project Tamriel Rebuilt Team.
 
 ## Project Goals
 
@@ -22,7 +23,6 @@ To do that, this project focuses on:
 
 - A **total conversion** for *The Elder Scrolls III: Morrowind*
 - A game set to the events of **Oblivion** with mechanics from **Morrowind**
-
 
 ## What This Project Is Not
 
@@ -50,7 +50,6 @@ The Board should show you info about progress on current builds.  All of these a
 - 📋 [**Project Board**](https://github.com/users/Odieman1/projects/2)
 
 - 📘 [**Project Wiki**](https://github.com/Odieman1/oblivion-demastered/wiki)
-
 ## Installation
 
 TBD
