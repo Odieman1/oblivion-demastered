@@ -1,0 +1,76 @@
+--Subfolder Guide--
+
+a = Armor
+b = Body Parts
+c = Clothes
+d = Doors
+e = Effects
+f = Furniture, Mostly Static Placement.
+i = Interiors, Building Blocks for Entire Rooms.
+l = Lights
+m = Misc items
+n = I(n)Gredients
+o = Containers, Including Alchemy Ingredients
+r = Creatures (Note, creatures simply are saved as their name).
+w = Weapons
+x = Exterior
+dev = Special Folder for Construction Set things.
+
+--Naming Guide--
+
+18 Character Limit because of meshes/odem/ = 12 and [LETTER]/ = 2.  32-14=18.
+/dev folder has 16 character limit.
+
+All names are lowercase only.
+
+Shortening Order:
+
+Sets go First.  3 letters, generally avoid vowels.  If the set has a very short name, vowels can be added.
+Always use the first letter the set actually starts with, including vowels.
+Really, you want to look at the 3 letters and be able to identify it.  dae for daedra is better that ddr because ddr makes me think of dance dance revolution.
+Examples:
+
+-Cities-
+Bruma = brm
+Cheydinhal = chy
+Anvil = anv
+Imperial City = imp
+
+-Styles-
+Daedra = dae
+Oblivion = obl
+Ayleid = ayl
+
+
+
+A descriptor, 3-12 letters.  Two characters reserved for number codes.  Alternates use underscore letter codes with number codes, but always after numbers.
+If no different meshes exist, for example say a unique item that can be broken: bitter_cup_r would be a ruined bitter cup.  deer_meat_s would be deer meat spoiled.
+Feel free to use full words, but nothing over 12 letters.  Underscores count as letters. 
+
+
+Examples:
+
+pillar = plr01_r
+wall = wll_r (wall ruined)
+corner = crn05
+arch = arc23
+floor = flr58
+table = tbl01_r
+small = sml
+large = lrg
+
+
+Final Outcome should be less than or equal to 18 characters.
+
+Examples:
+
+meshes\odem\i\ayl_plr01 reads as ayleid pillar 1.
+meshes\odem\f\ayl_blue_crystal01 is exactly 32 characters, and references a blue crystal furniture item in ayleid ruins.
+meshes\odem\d\obl_gate_large would reference the final, unique, large gate (door) you enter at the end of the game.
+
+Some dev examples and their uses:
+
+meshes\odem\dev\256_act_cyl would be 27 characters, and references a cylinder used to visually reference an activator's 256 unit zone.
+meshes\odem\dev\marker_blue would be 27 characters, and references a simple blue dev marker for visually referencing things.
+meshes\odem\dev\note_marker is also 27 characters, references maybe a note to myself for the future.
+meshes\odem\dev\bug_warn 24 characters, maybe a construction set object that tells me a player encountered a bug here during a playtest
